@@ -674,6 +674,15 @@ files:
       println("Total income: \n$$totalIncome")
     }
   learner_created: false
+- name: src/indigo/IndigoCardGame.kt
+  visible: true
+  learner_created: true
+- name: src/cinema/AnotherRoom.kt
+  visible: true
+  learner_created: true
+- name: src/cinema/AnotherRoom.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/11368#comment
 status: Solved
 feedback:
